@@ -1,6 +1,6 @@
 module.exports = {
-  title: "vuepress-theme-reco",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "凌玄龙的博客",
+  description: '程序如修道，道非道非常道',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -20,7 +20,7 @@ module.exports = {
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/Lingxuanlong/blog', icon: 'reco-github' }
         ]
       }
     ],
@@ -41,21 +41,21 @@ module.exports = {
       },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
-        text: 'Tag' // 默认 “标签”
+        text: '牛人笔记' // 默认 “标签”
       }
     },
     friendLink: [
       {
-        title: '午后南杂',
+        title: '冬暖夏凉',
         desc: 'Enjoy when you can, and endure when you must.',
-        email: '1156743527@qq.com',
-        link: 'https://www.recoluan.com'
+        email: 'lei410387403@163.com',
+        link: ''
       },
       {
-        title: 'vuepress-theme-reco',
+        title: 'I jump you jump',
         desc: 'A simple and beautiful vuepress Blog & Doc theme.',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        link: 'https://vuepress-theme-reco.recoluan.com'
+        link: ''
       },
     ],
     logo: '/logo.png',
@@ -67,13 +67,13 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'reco_luan',
+    author: '凌玄龙',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
-    record: 'xxxx',
+    record: '湘ICP ZS123A76',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2021'
     /**
      * 密钥 (if your blog is private)
      */

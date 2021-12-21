@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 共同进步
+tagline: 程序如修道，道非道非常道.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
